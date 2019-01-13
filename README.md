@@ -1,1 +1,2 @@
 # javascript
+* http://edu.goorm.io/learn/lecture/10954/%EC%97%B0%EC%9E%AC-%EC%9B%B9-%EA%B2%8C%EC%9E%84-%EA%B0%9C%EB%B0%9C%EA%B3%BC-%ED%95%A8%EA%BB%98-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8
