@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>끝말잇기</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />    
+</head>
+<body>
+    <p>끝말잇기를 시작해봅시다.</p>
+    <button onclick="getWord()">시작하기</button>
+    <p class="startWord"></p>
+    <script>
+        function getWord (){
+            var word = prompt('끝말잇기를 시작할 첫 단어를 입력해주세요.','문광명');
+            // prompt 를 활용해서 끝말잇기 시작할 첫 단어를 받아서 저장
+            if (word !== null) {
+                document.querySelector('.startWord').innerHTML = word;
+            }
+        }
+    </script>
+</body>
+</html>
